@@ -9,17 +9,29 @@ Diary merupakan salah satu bentuk journal, mengapa aplikasi diary ini dibuat? Da
 Pada tahap ini kita mengeksplorasi branding dari sistem yang dibuat. Branding meliputi:
 
 •	Merk: My Riji
+
 •	Tagline: menulis diary/morning pages 
+
 •	Campaign: Aplikasi yang membuat penggunanya dapat mencurahkan isi hati nya
+
 •	Target user: 
+
 •	Usia 13+
+
 •	Seorang yang butuh bercerita
+
 •	Seorang yang butuh self care
+
 •	Seorang yang ingin mengupgrade diri
+
 •	User experience theme:
+
 •	Mudah
+
 •	Sederhana
+
 •	Menenangkan
+
 •	Warna: biru laut
 
 Inspirasi desain:
