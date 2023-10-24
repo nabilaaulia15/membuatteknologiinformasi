@@ -1,0 +1,2 @@
+# membuatteknologiinformasi
+aplikasi diary myriji
