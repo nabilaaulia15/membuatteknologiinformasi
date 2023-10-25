@@ -1,16 +1,19 @@
 ## Membuat aplikasi diary dengan figma, netbeans,java swing,SQLite
 
-Nabila aulia 23 oktober 2023
+Nabila aulia 25 oktober 2023
 
-## Intro
+## Latar Belakang
 Diary merupakan salah satu bentuk journal, mengapa aplikasi diary ini dibuat? Dari yang saya ketahui dengan membuat diary kita dapat banyak manfaat contohnya apabila Kita mendapat masalah, selama kita mencatat masalah di dalam diary, kita dapat mencerna apa yang sebenarnya terjadi dan menjadi jalan dalam menentukan jawabannya, selain itu dengan membuat diary juga dapat meredakan stress dan membuat tidur lebih nyenyak, bukan hanya dapat membuat diary saja, aplikasi ini dapat dibuat untuk morning pages, dengan membuat morning pages 3 halaman penuh selama 30 menit, dapat membuat hari kita menjadi lebih baik.
 
+## Deskripsi Teknologi Informasi
+
+Kita dapat mencatat hari kita di aplikasi ini, aplikasi ini dapat membantu anda menuliskan diary,jurnal,catatan,daily activty dan berbagai fitur lainnya apabila telah diperbanyak seperti pengingat aktvitaas kita diantaranya makan,minum,olahraga,ibadah,dapat mencatat to do list dan melihat kalender
+
 ## Analysis: Branding
-Pada tahap ini kita mengeksplorasi branding dari sistem yang dibuat. Branding meliputi:
 
 •	Merk: My Riji
 
-•	Tagline: menulis diary/morning pages 
+•	Tagline: savior of the day
 
 •	Campaign: Aplikasi yang membuat penggunanya dapat mencurahkan isi hati nya
 
@@ -39,8 +42,6 @@ Inspirasi desain:
 
 ## Analysis: User Story
 
-Pada tahap ini kita mengeksplorasi kebutuhan prioritas dari para pengguna untuk kita wujudkan sebagai fitur pada sistem atau aplikasi yang akan dibuat. User story  memudahkan kita membuat prioritas fitur-fitur untuk dikerjakan untuk jangka waktu tertentu
-
 | Sebagai | Saya ingin bisa | Sehingga | Priotas |
 |---------|---------|---------|---------|
 |Pengguna |Menulis diary |Bisa menulis catatan harian|⭐⭐⭐⭐⭐|
@@ -59,24 +60,29 @@ Pada tahap ini kita mengeksplorasi kebutuhan prioritas dari para pengguna untuk 
 
 ## Analysis: Structure data
 
-•	Pada tahap ini kita mengeksplorasi dan menganalisis bentuk struktur data yang mampu memfasilitasi user story yang ada, maupun yang kemungkinan besar dibutuhkan di kemudian hari
-•	Kita akan merepresentasikan Entitas pada aplikasi dalam bentuk tabel Entitas dan Atribut
 
-|         Pengguna        |
-|------------|------------|
-|judul_notes |text|
-|deskripsi_notes|text|
-|status_notes|boolean|
 
 ## Design: Arsitektur Berbasis Client-Server
 
-Pada tahap ini kita merancang arsitektur berikut teknologi yang terdapat pada setiap komponen pembentuk aplikasi.
 ![nabila](https://github.com/nabilaaulia15/membuatteknologiinformasi/assets/144403573/96f7d546-6387-4bdb-bf47-2a41a748fe9e)
 
 ## Design: User Experience (UX) Design
 
-Pada tahap ini kita mengeksplorasi alur interaksi pengguna yang paling praktis dan efektif untuk setiap fitur.
-Ada banyak tools yang bisa digunakan mulai dari yang open source seperti Inkscape, Penpot, lalu yang gratis hingga berbayar seperti Figma.
-Desain yang dibuat di atas adalah low fidelity design dimana kualitas desainnya paling sederhana tapi cepat untuk dibuat.
-
 <img width="347" alt="Screenshot 2023-10-24 233916" src="https://github.com/nabilaaulia15/membuatteknologiinformasi/assets/144403573/1bd3b081-f759-48a0-b459-851c60e1f832">
+
+## bagaimana database / sistem basis data berperan dalam produk teknologi informasimu
+
+## bagaimana metode pengembangan perangkat lunak / Software Development Life Cycle berperan dalam produk teknologi informasimu
+
+## bagaimana algoritma, struktur data, dan bahasa pemrograman berperan dalam produk teknologi informasimu
+
+## bagaimana mesin komputasi dan sistem operasi berperan dalam produk teknologi informasimu
+
+## Demonstrasikan produk teknologi informasi yang kamu buat dalam video
+
+
+
+
+
+
+
