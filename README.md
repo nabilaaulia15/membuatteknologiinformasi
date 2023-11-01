@@ -60,7 +60,19 @@ Inspirasi desain:
 
 ## Analysis: Structure data
 
-<img width="414" alt="Screenshot 2023-10-31 201059" src="https://github.com/nabilaaulia15/membuatteknologiinformasi/assets/144403573/1cfd7d16-aa47-4cdf-bef1-eac912881b08">
+erDiagram
+    PENGGUNA ||--o{ CATATAN : places
+    PENGGUNA {
+        string name
+       
+    }
+    CATATAN {
+        string  catatan
+        string  judul_catatan
+        string  Isi_Catatan
+        int     Tanggal_Pembuatan
+        int     Tanggal_Pembaruan
+    }
 
 
 ## Design: Arsitektur Berbasis Client-Server
