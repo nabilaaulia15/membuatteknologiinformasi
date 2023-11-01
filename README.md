@@ -78,8 +78,7 @@ erDiagram
 
 ## Design: Arsitektur Berbasis Client-Server
 
-```
-mermaid
+```mermaid
 flowchart BT 
   subgraph cloud
     B[Web Server: JavaScript - Express.js] <--> C[Aplikasi Web Backend: JavaScript - Express.js] 
