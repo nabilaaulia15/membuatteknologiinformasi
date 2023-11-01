@@ -84,7 +84,7 @@ flowchart BT
     B[Web Server: JavaScript - Express.js] <--> C[Aplikasi Web Backend: JavaScript - Express.js] 
     C <--> D[Database: SQLite] 
   end
-  A[Aplikasi Android & iPhone: JavaScript] <--> B
+  A[Aplikasi Android: JavaScript] <--> B
 ```
 ## Design: User Experience (UX) Design
 
