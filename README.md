@@ -60,6 +60,7 @@ Inspirasi desain:
 
 ## Analysis: Structure data
 
+```mermaid
 erDiagram
     PENGGUNA ||--o{ CATATAN : places
     PENGGUNA {
@@ -73,7 +74,7 @@ erDiagram
         int     Tanggal_Pembuatan
         int     Tanggal_Pembaruan
     }
-
+```
 
 ## Design: Arsitektur Berbasis Client-Server
 
