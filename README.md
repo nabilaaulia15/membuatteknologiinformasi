@@ -78,8 +78,15 @@ erDiagram
 
 ## Design: Arsitektur Berbasis Client-Server
 
-![nabila](https://github.com/nabilaaulia15/membuatteknologiinformasi/assets/144403573/96f7d546-6387-4bdb-bf47-2a41a748fe9e)
-
+```
+mermaid
+flowchart BT 
+  subgraph cloud
+    B[Web Server: JavaScript - Express.js] <--> C[Aplikasi Web Backend: JavaScript - Express.js] 
+    C <--> D[Database: SQLite] 
+  end
+  A[Aplikasi Android & iPhone: JavaScript] <--> B
+```
 ## Design: User Experience (UX) Design
 
 <img width="347" alt="Screenshot 2023-10-24 233916" src="https://github.com/nabilaaulia15/membuatteknologiinformasi/assets/144403573/1bd3b081-f759-48a0-b459-851c60e1f832">
