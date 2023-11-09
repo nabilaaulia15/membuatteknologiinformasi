@@ -88,6 +88,7 @@ flowchart BT
 ```
 ## Design: User Experience (UX) Design
 
+<img width="914" alt="Screenshot 2023-11-09 211353" src="https://github.com/nabilaaulia15/membuatteknologiinformasi/assets/144403573/3362bad9-bf97-4c04-9bd2-8b38d608cbad">
 
 <img width="347" alt="Screenshot 2023-10-24 233916" src="https://github.com/nabilaaulia15/membuatteknologiinformasi/assets/144403573/1bd3b081-f759-48a0-b459-851c60e1f832">
 
