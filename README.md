@@ -88,6 +88,7 @@ flowchart BT
 ```
 ## Design: User Experience (UX) Design
 
+
 <img width="347" alt="Screenshot 2023-10-24 233916" src="https://github.com/nabilaaulia15/membuatteknologiinformasi/assets/144403573/1bd3b081-f759-48a0-b459-851c60e1f832">
 
 ## bagaimana database / sistem basis data berperan dalam produk teknologi informasimu
