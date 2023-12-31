@@ -93,15 +93,19 @@ flowchart BT
 <img width="347" alt="Screenshot 2023-10-24 233916" src="https://github.com/nabilaaulia15/membuatteknologiinformasi/assets/144403573/1bd3b081-f759-48a0-b459-851c60e1f832">
 
 ## bagaimana database / sistem basis data berperan dalam produk teknologi informasimu
+https://drive.google.com/file/d/1LtTJ-xgb-un6x7f5qbe8wpXqqAhlyK5o/view?usp=drive_link
 
 ## bagaimana metode pengembangan perangkat lunak / Software Development Life Cycle berperan dalam produk teknologi informasimu
+https://drive.google.com/file/d/1YvYhi_gBh2-mT2k8nvp6JGmtx1MBunIV/view?usp=sharing
 
 ## bagaimana algoritma, struktur data, dan bahasa pemrograman berperan dalam produk teknologi informasimu
+https://drive.google.com/file/d/1jyZBSayKlqHxtngY--9pCSf58S0KrmTQ/view?usp=drive_link
 
 ## bagaimana mesin komputasi dan sistem operasi berperan dalam produk teknologi informasimu
+https://drive.google.com/file/d/15o6JRoXuuIMgd7CRVStVXXzdzBafHyMD/view?usp=sharing
 
 ## Demonstrasikan produk teknologi informasi yang kamu buat dalam video
-
+https://youtu.be/yg635MC2rGI?si=44xKU7y57D7uB_MI
 
 
 
